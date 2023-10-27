@@ -1,9 +1,9 @@
 
-# test
+# Cool README Generator test
 
 ## Description
 
-test
+This is a test of the readme generator
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ test
 
 ## Installation
 
-test
+install node modules and dependencies
 
 ## Usage
 
-test
+"node index.js"
 
 ## Contributing
 
@@ -36,4 +36,4 @@ This project is licensed under the MIT license.
 
 ## Questions
 
-For questions or comments, please contact test at test.
+For questions or comments, please contact Ross at Ross@email.com.
